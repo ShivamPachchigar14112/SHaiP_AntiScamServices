@@ -1,5 +1,6 @@
 import pyautogui, time
+usr_input = input()
 time.sleep(10)
-while(0 == 0):
-    pyautogui.typewrite("Hey scammer! Stop this nosense and do some real work instead. -SHaiP_AntiScamServices")
+while(0 == 0): #This runs infinitely to print usr_input infintely
+    pyautogui.typewrite(usr_input)
     pyautogui.press("enter")
