@@ -1,5 +1,5 @@
-                                            		                    	****SHaiP AntiScamService****
-To text the scammer repeatedly, just get the file SHaiP.py running by following these steps:
+                                                                    ****SHaiP AntiScamService****
+To text the scammer repeatedly(or maybe, infinitely), just get the file SHaiP.py running by following these steps:
 
 Step-1) First of all, install python3 and PyAutoGui to your machine.
 
